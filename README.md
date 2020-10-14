@@ -1,5 +1,6 @@
 # Basic_Client_Server
- Using TCP.
+ Using TCP, UDP
+ 
  ## One Server, One Client
  To run it, just dowload the Main classes from client and server and run on separate terminal.
 
