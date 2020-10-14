@@ -5,5 +5,5 @@
 
  ## One Server, Many Clients
  To run it, just dowload the Main classes from client and server and run on separate terminal.
- To add multiple clients just runt the client file multiple times.
+ To add multiple clients just run the client file multiple times.
  
